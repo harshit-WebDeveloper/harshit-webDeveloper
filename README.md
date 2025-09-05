@@ -37,25 +37,25 @@
 ---
 
 ## 📊 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-WebDeveloper&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-WebDeveloper&layout=compact&theme=tokyonight)  
 
 ---
 
 ## ⚡ Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit-WebDeveloper&theme=tokyonight)  
 
 ---
 
 ## 📈 Activity Graph
-![Harshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night)  
+![Harshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit-WebDeveloper&theme=tokyo-night)  
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your_linkedin_link)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/YourGitHubUsername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-webdeveloper/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/harshit-WebDeveloper)  
 
 ---
 
