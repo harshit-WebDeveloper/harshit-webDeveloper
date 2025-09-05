@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshit Agrawal  
 
-<!--
-**harshit-WebDeveloper/harshit-webDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about **Web Development & DSA** | 🚀 Exploring **JavaScript, React, and C++**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 Pursuing MCA from Dr. A.P.J. Abdul Kalam Technical University  
+- 🌱 Currently learning **Frontend Development & DSA**  
+- 📚 Sharing my daily learning journey on **LinkedIn**  
+- 💡 Building projects to sharpen problem-solving & development skills  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
+
+## 📌 Featured Projects
+- 🎯 [JavaScript Projects Repository](your_repo_link)  
+- 📝 To-Do List Web App  
+- 🔍 GitHub Finder App  
+
+---
+
+## 📊 GitHub Stats
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
+---
+
+## ⚡ Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
+
+---
+
+## 📈 Activity Graph
+![Harshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your_linkedin_link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/YourGitHubUsername)  
+
+---
+
+⭐️ *“Consistency beats intensity. Keep building, keep growing!”*
