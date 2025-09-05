@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Harshit Agrawal  
-![Profile Views](https://komarev.com/ghpvc/?username=harshit-WebDeveloper&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 💻 Passionate about **Web Development & DSA** | 🚀 Exploring **JavaScript, React, and C++**  
