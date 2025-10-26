@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 Pursuing MCA from Dr. A.P.J. Abdul Kalam Technical University  
+- 🎓 Pursuing MCA from Mangalayatan University  
 - 🌱 Currently learning **Frontend Development & DSA**  
 - 📚 Sharing my daily learning journey on **LinkedIn**  
 - 💡 Building projects to sharpen problem-solving & development skills  
