@@ -69,8 +69,8 @@ A growing collection of JS mini-projects showcasing DOM mastery, creativity & lo
 ## 📈 GitHub Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-WebDeveloper&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-WebDeveloper&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=harshit-WebDeveloper&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-WebDeveloper&layout=compact&theme=tokyonight" />
 </p>
 
 ---
