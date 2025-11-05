@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=4000&color=00E7FF&center=true&vCenter=true&width=650&height=60&lines=Frontend+Developer;Web+Developer;DSA+Enthusiast;Turning+Ideas+into+Web+Experiences;Learning+Every+Day+🚀">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshit-WebDeveloper&style=for-the-badge&color=00eaff">
-</p>
-
 ---
 
 ## 🌌 About Me
